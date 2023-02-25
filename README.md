@@ -1,7 +1,7 @@
 # Rust Roadmap
-* Bu yol haritasının amacı blokzincir teknolojisi ve günümüzdeki uygulamarı hakkında bilgilenmek isteyen herkese, başlangıç aşamasından ileri taşıyacak kaynakları sunmaktır. ITU Blockchain üyeleri tarafından derlenen bu kaynak kütüphanesi ise güncelliğini korumayı hedeflemektedir. Ayrıca günlük olarak okuyup beğendiğimiz kaynakları da [Telegram'daki "Resources" kanalımızda](https://t.me/itublockchain) paylaşıyoruz. Şimdilik birçok kaynak İngilizce olarak yol haritasında yer alsa da gelecek dönemlerde ilgili konu başlıkları altında olabildiğince çok Türkçe kaynağı kendimiz üretmeyi hedefliyoruz.
+* Bu yol haritasının amacı Rust'ı başlangıç aşamasından ileri seviyeye taşıyacak şekilde dili kavramak ve günümüzdeki bizim amaçladığımız Smart Contractlar ama bunun haricinde Rust'ın kullanılabildiği diğer sektörlere de zemin hazırlamaktır. YTU Blockchain üyeleri tarafından hazırlanan bu Roadmap Rust'ı yeni öğrenecek adaylara öğretici ve pekiştirici bir zemin sunmayı hedeflemektedir. Ayrıca çeşitli etkinlikler ve iş fırsatlarıyla birlikte Rust geliştiricilerini bir çatı altında topladığımız [Whatsapp'taki "Topluluk" kanalımıza](https://www.youtube.com/watch?v=dQw4w9WgXcQ) katılabilirsiniz. Şimdilik birçok kaynak İngilizce olarak yol haritasında yer alsa da gelecek dönemlerde ilgili konu başlıkları altında olabildiğince çok Türkçe kaynağı kendimiz üretmeyi hedefliyoruz.
 
-* Aşağıdaki tablodan ilgilendiğiniz başlıklara tıklayarak kaynaklara ulaşabilirsiniz 👇🏻
+* Aşağıdaki tablo sırası ile Rust'ta adım adım ilerleyebilmeniz için tasarlanmıştır 👇🏻
 
 ## İçerik
 | Konu Başlıkları  |
