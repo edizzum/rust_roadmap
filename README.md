@@ -12,7 +12,7 @@
 | [Structs, Enums and Pattern Matching](#structs-enums-and-pattern-matching)|
 | [Packages, Crates and Modules](#packages-crates-and-modules)|
 | [Common Collections](#common-collections)|
-| [Generic Types](#generic-types)|
+| [Generic Types, Traits and Lifetimes](#generic-types-traits-and-lifetimes)|
 | [Writing Automated Tests](#writing-automated-tests)|
 | [Iterators and Closures](#iterators-and-closures)|
 
@@ -40,6 +40,8 @@
 ### Ownership
 * [What is Ownership?](https://medium.com/@AtesBagcabasi/ownershipi-anlamak-b82dd9e27aac)
 * [Rust Book Ownership](https://doc.rust-lang.org/book/ch04-00-understanding-ownership.html)
+* [Rust By Example Ownership and moves](https://doc.rust-lang.org/rust-by-example/scope/move.html)
+* [Rust By Example Borrowing](https://doc.rust-lang.org/rust-by-example/scope/borrow.html)
 * [**(Video)** Understanding Ownership in Rust](https://www.youtube.com/watch?v=VFIOSWy93H0&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8&index=4)
 * [**(Video)** Memory Management, Heap & Stake](https://www.youtube.com/watch?v=-6cnnNlAvNk&list=PLzMcBGfZo4-nyLTlSRBvo0zjSnCnqjHYQ&index=9)
 * [**(Video)** Mülkiyet(Ownership)(Türkçe)](https://www.youtube.com/watch?v=_44mSRHKdqI)
@@ -49,8 +51,9 @@
 * [Rust Book Enums and Pattern Matching](https://doc.rust-lang.org/book/ch06-00-enums.html)
 * [Rust By Example Structs](https://doc.rust-lang.org/rust-by-example/custom_types/structs.html)
 * [Rust By Example Enums](https://doc.rust-lang.org/rust-by-example/custom_types/enum.html)
-* [**(Video)** Structs in Rust](https://www.youtube.com/watch?v=n3bPhdiJm9I&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8&index=5)
+* [**(Video)** Structs](https://www.youtube.com/watch?v=n3bPhdiJm9I&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8&index=5)
 * [**(Video)** Enums and Pattern Matching in Rust](https://www.youtube.com/watch?v=DSZqIJhkNCM&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8&index=6)
+* [**(Video)** Option(Enum)(Basic)](https://www.youtube.com/watch?v=JKmkKae-EhM&list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uDCUL&index=37)
 * [Başa dön ⬆](#i̇çerik)
 ### Packages, Crates and Modules
 * [Rust Book Managing Growing Projects with Packages, Crates and Modules](https://doc.rust-lang.org/book/ch07-00-managing-growing-projects-with-packages-crates-and-modules.html)
@@ -69,3 +72,23 @@
 * [**(Video)** Strings(Basic)](https://www.youtube.com/watch?v=IYYlc26vgyU&list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uDCUL&index=33)
 * [**(Video)** HashMaps(Basic)](https://www.youtube.com/watch?v=sTK8fagTsMk&list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uDCUL&index=31)
 * [Başa dön ⬆](#i̇çerik)
+### Generic Types, Traits and Lifetimes
+* [Rust Book Generic Types, Traits and Lifetimes](https://doc.rust-lang.org/book/ch10-00-generics.html)
+* [Rust By Example Generics](https://doc.rust-lang.org/rust-by-example/generics.html)
+* [Rust By Example Traits](https://doc.rust-lang.org/rust-by-example/trait.html)
+* [**(Video)** Generic Types](https://www.youtube.com/watch?v=6rcTSxPJ6Bw)
+* [**(Video)** Traits](https://www.youtube.com/watch?v=T0Xfltu4h3A)
+* [**(Video)** Lifetimes](https://www.youtube.com/watch?v=juIINGuZyBc)
+### Writing Automated Tests
+* [Rust Book Writing Automated Tests](https://doc.rust-lang.org/book/ch11-00-testing.html)
+* [Rust By Example Testing](https://doc.rust-lang.org/rust-by-example/testing.html)
+* [**(Video)** Writing and Running Tests(Basic)](https://www.youtube.com/watch?v=3Zg5-evaup0&list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uDCUL&index=41)
+* [**(Video)** Automated Testing](https://www.youtube.com/watch?v=vft2M1aRev4)
+* [**(Video)** Testing in Rust(Part 1)](https://www.youtube.com/watch?v=18-7NoNPO30)
+* [**(Video)** Testing in Rust(Part 2)](https://www.youtube.com/watch?v=-L4nKAlmH3M)
+### Iterators and Closures
+* [Rust Book Iterators and Closures](https://doc.rust-lang.org/book/ch13-00-functional-features.html)
+* [Rust By Example Closures](https://doc.rust-lang.org/rust-by-example/fn/closures.html)
+* [Rust By Example Iterators](https://doc.rust-lang.org/rust-by-example/trait/iter.html)
+* [**(Video)** Closures](https://www.youtube.com/watch?v=kZXJvLfjUS4)
+* [**(Video)** Iterators](https://www.youtube.com/watch?v=4GcKrj4By8k)
