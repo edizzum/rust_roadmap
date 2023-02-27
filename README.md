@@ -16,8 +16,8 @@
 | [Writing Automated Tests](#writing-automated-tests)|
 | [Iterators and Closures](#iterators-and-closures)|
 
-## Blokzincirin Temel Teknolojileri Nedir?
-→ Yol haritamızdaki ilk adım blokzincir teknolojisinin temellerini oluşturan yapıtaşlarını öğrenmek olacak.
+## Rust Nedir?
+→ Yol haritamızdaki ilk adım Rust dilinin genel yazım kurallarına değinmek olacak.
 ### Cargo Package Management
 * [Rust Book Hello Cargo](https://doc.rust-lang.org/book/ch01-03-hello-cargo.html)
 * [Rust By Example Cargo](https://doc.rust-lang.org/rust-by-example/cargo.html)
