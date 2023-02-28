@@ -6,7 +6,7 @@
 ## İçerik
 | Konu Başlıkları  |
 |:------------- |
-| [Gereksinimler](#gereksinimler)|
+| [Requirements](#requirements)|
 | [How to Learn Better](#how-to-learn-better)|
 | [Cargo Package Management](#cargo-package-management)|
 | [Common Programming Concepts](#common-programming-concepts)|
